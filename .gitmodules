@@ -1,0 +1,3 @@
+[submodule "pokepinball-romhack"]
+	path = pokepinball-romhack
+	url = https://github.com/heyspacebuck/pokepinball-romhack.git
